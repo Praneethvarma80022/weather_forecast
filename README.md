@@ -15,3 +15,6 @@ GUI Framework: Java Swing
 API: OpenWeatherMap (5-day forecast endpoint) or any other preferred weather API
 Build Tool: Maven or Gradle
 
+![Screenshot 2024-06-20 140523](https://github.com/Praneethvarma80022/weather_forecast/assets/147583268/589eed91-94fa-458d-bc6f-6afdf7c1211c)
+
+![Screenshot 2024-06-20 140549](https://github.com/Praneethvarma80022/weather_forecast/assets/147583268/419818cf-ce22-41f6-8f41-a715eca4745f)
